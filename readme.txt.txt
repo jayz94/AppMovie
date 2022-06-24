@@ -1,7 +1,7 @@
 datos de login predefinidos para mayor facilidad
 
 comando para correr el proyecto 
-react-native run-android
+npx react-native run-android
 
 
 reset a cache
