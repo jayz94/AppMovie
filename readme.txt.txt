@@ -1,5 +1,7 @@
 datos de login predefinidos para mayor facilidad
 
+rama master
+
 comando para correr el proyecto 
 npx react-native run-android
 
